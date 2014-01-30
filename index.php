@@ -11,13 +11,13 @@
 		<link rel="stylesheet" href="../media/bootstrap/v3/css/bootstrap-extended.css" type="text/css" />
 		<link rel="stylesheet" href="../media/joomla/jui/css/chosen.css" type="text/css" />
 		<link rel="stylesheet" href="../media/joomla/jui/css/spinner.css" type="text/css" />
-		<script src="../media/jquery/core/js/jquery.min.js" type="text/javascript"></script>
-		<script src="../media/jquery/core/js/jquery-migrate.min.js" type="text/javascript"></script>
-		<script src="../media/joomla/jui/js/spin.min.js" type="text/javascript"></script>
-		<script src="../media/bootstrap/v3/js/bootstrap.min.js" type="text/javascript"></script>
-		<script src="../media/joomla/jui/js/chosen.jquery.min.js" type="text/javascript"></script>
-		<script src="../media/joomla/jui/js/joomla.min.js" type="text/javascript"></script>
-		<script src="../media/joomla/jui/js/validator.min.js" type="text/javascript"></script>
+		<script src="media/jquery/core/js/jquery.min.js" type="text/javascript"></script>
+		<script src="media/jquery/core/js/jquery-migrate.min.js" type="text/javascript"></script>
+		<script src="media/joomla/jui/js/spin.min.js" type="text/javascript"></script>
+		<script src="media/bootstrap/v3/js/bootstrap.min.js" type="text/javascript"></script>
+		<script src="media/joomla/jui/js/chosen.jquery.min.js" type="text/javascript"></script>
+		<script src="media/joomla/jui/js/joomla.min.js" type="text/javascript"></script>
+		<script src="media/joomla/jui/js/validator.min.js" type="text/javascript"></script>
 	</head>
 	<body>
 		<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
