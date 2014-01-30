@@ -9,6 +9,7 @@
 		<link rel="stylesheet" href="media/bootstrap/v3/css/bootstrap.min.css" type="text/css" />
 		<link rel="stylesheet" href="media/bootstrap/v3/css/bootstrap-responsive.min.css" type="text/css" />
 		<link rel="stylesheet" href="media/bootstrap/v3/css/bootstrap-extended.css" type="text/css" />
+		<link rel="stylesheet" href="templates/lite/css/style.css" type="text/css" />
 		<link rel="stylesheet" href="media/joomla/jui/css/chosen.css" type="text/css" />
 		<link rel="stylesheet" href="media/joomla/jui/css/spinner.css" type="text/css" />
 		<script src="media/jquery/core/js/jquery.min.js" type="text/javascript"></script>
