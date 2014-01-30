@@ -6,11 +6,11 @@
     	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link href="template/lite/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
 		<title>Lite Template for Joomla! CMS</title>
-		<link rel="stylesheet" href="../media/bootstrap/v3/css/bootstrap.min.css" type="text/css" />
-		<link rel="stylesheet" href="../media/bootstrap/v3/css/bootstrap-responsive.min.css" type="text/css" />
-		<link rel="stylesheet" href="../media/bootstrap/v3/css/bootstrap-extended.css" type="text/css" />
-		<link rel="stylesheet" href="../media/joomla/jui/css/chosen.css" type="text/css" />
-		<link rel="stylesheet" href="../media/joomla/jui/css/spinner.css" type="text/css" />
+		<link rel="stylesheet" href="media/bootstrap/v3/css/bootstrap.min.css" type="text/css" />
+		<link rel="stylesheet" href="media/bootstrap/v3/css/bootstrap-responsive.min.css" type="text/css" />
+		<link rel="stylesheet" href="media/bootstrap/v3/css/bootstrap-extended.css" type="text/css" />
+		<link rel="stylesheet" href="media/joomla/jui/css/chosen.css" type="text/css" />
+		<link rel="stylesheet" href="media/joomla/jui/css/spinner.css" type="text/css" />
 		<script src="media/jquery/core/js/jquery.min.js" type="text/javascript"></script>
 		<script src="media/jquery/core/js/jquery-migrate.min.js" type="text/javascript"></script>
 		<script src="media/joomla/jui/js/spin.min.js" type="text/javascript"></script>
